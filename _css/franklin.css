@@ -165,7 +165,8 @@ html {
 .franklin-content .fndef tr, td {
     padding: 0;
     border: 0;
-    text-align: left;}
+    /*text-align: center;*/
+    }
 .franklin-content .fndef tr {
     border-left: 2px solid lightgray;
     }
@@ -184,12 +185,12 @@ html {
 .franklin-content img {
     width: 70%;
     text-align: center;
-    padding-left: 10%; }
+    padding-left: 0%; }
 
 .franklin-content .img-small img {
     width: 50%;
     text-align: center;
-    padding-left: 20%; }
+    padding-left: 0%; }
 
 /* ==================================================================
     KATEX

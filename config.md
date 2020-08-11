@@ -3,11 +3,11 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Franklin Template"
-@def website_descr = "Example website using Franklin"
+@def website_title = "tchr's page in-progress"
+@def website_descr = "generated using Franklin"
 @def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 
-@def author = "Septimia Zenobia"
+@def author = "Thomas Christensen"
 
 @def mintoclevel = 2
 
@@ -26,3 +26,4 @@ For instance:
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\rv}{\mathbf{r}}
