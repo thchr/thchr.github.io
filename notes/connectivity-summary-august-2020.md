@@ -66,7 +66,7 @@ SG 68 #116 | SG 86 #189 | SG 86 #326
     As context, this required around 1.300 CPU hours ≈ 50+ CPU days.
     
 - 
-    I've manually checked *one* of the four $M=8$ solutions by comparing its compatibility relations to the pinned outgoing lines from Γ. The solution is completely kosher and consistent.
+    I've manually checked *one* of the four $M=8$ solutions by comparing its compatibility relations to the pinned outgoing lines from Γ. As far as I can see, the solution is completely kosher and consistent.
     The four solutions are: (▪²ᵀ denotes the singular $ω=0$ bands)
 
     1. [▪²ᵀ+Γ₁⁻+Γ₂⁺+Γ₂⁻+Γ₄⁻, H₁+H₄, 2P₃, 3N₁+N₂]
