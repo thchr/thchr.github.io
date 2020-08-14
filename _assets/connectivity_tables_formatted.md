@@ -7140,9 +7140,7 @@
 | [(▪)\T+Γ₁⁺+Γ₁⁻+Γ₂⁻+Γ₅⁻, H₁+H₄, 2P₃, 2N₁+2N₂] |
 | [(▪)\T+Γ₁⁺+Γ₁⁻+Γ₂⁺+Γ₅⁺, H₁+H₄, 2P₃, 2N₁+2N₂] |
 
-[Trivial symmetry indicator group, ℤ₁]
-
-**~~~1<sup>st</sup>~~~ minimal solution:** νᵀ = 12 (12 symmetry vectors)
+**~~~2<sup>nd</sup>~~~ minimal solution:** νᵀ = 12 (12 symmetry vectors)
 
 | nᵀ                                                      |
 |:--------------------------------------------------------|
