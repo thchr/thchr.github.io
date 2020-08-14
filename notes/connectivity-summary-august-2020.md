@@ -25,15 +25,11 @@ I then picked the lattices with largest gap to the third band and calculated the
     **SG 86** (νᵀ = 2 is guaranteed nontrivial):
     Pretty much same story, except Song's PRX predicts the minimal configuration to cross $k_z=0$, as it also does here. Seems fully consistent.
 
-SG 68 #116 | SG 86 #189 | SG 86 #326
-:--: | :--: | :--: 
-![](/assets/figs/unitcell-sg68-id116-primitive.png) | ![](/assets/figs/unitcell-sg86-id189-primitive.png) | ![](/assets/figs/unitcell-sg86-id326-primitive.png)
-![](/assets/figs/nodallines_sg68_id116_Nk50.png) | ![](/assets/figs/nodallines_sg86_id189_Nk50.svg) | ![](/assets/figs/nodallines_sg86_id326_Nk50.svg)
-[Interactive nodal line](/nodallines/nodallines_sg68_id116_Nk50/index.html) | [Interactive nodal line](/nodallines/nodallines_sg86_id189_Nk50/index.html) | [Interactive nodal line](/nodallines/nodallines_sg86_id326_Nk50/index.html)
-![](/assets/figs/dim3-sg68-irrfbz_116_Nk100_nbands12-res64.svg) | ![](/assets/figs/dim3-sg86-irrfbz_189_Nk70-res32.svg) |![](/assets/figs/dim3-sg86-irrfbz_326_Nk70-res32.svg)
-[Full-size dispersion](/assets/figs/dim3-sg68-irrfbz_116_Nk100_nbands12-res64.svg) | [Full-size dispersion](/assets/figs/dim3-sg86-irrfbz_189_Nk70-res32.svg) |[Full-size dispersion](/assets/figs/dim3-sg86-irrfbz_326_Nk70-res32.svg)
-
-
+  SG 68 #116 | SG 86 #189 | SG 86 #326
+  :--: | :--: | :--: 
+  \hfig{/assets/figs/unitcell-sg68-id116-primitive.png} | \hfig{/assets/figs/unitcell-sg86-id189-primitive.png} | \hfig{/assets/figs/unitcell-sg86-id326-primitive.png}
+  \hfig{/assets/figs/nodallines_sg68_id116_Nk50.png} | \hfig{/assets/figs/nodallines_sg86_id189_Nk50.svg} | \hfig{/assets/figs/nodallines_sg86_id326_Nk50.svg} 
+  \hfig{/assets/figs/dim3-sg68-irrfbz_116_Nk100_nbands12-res64.svg} | \hfig{/assets/figs/dim3-sg86-irrfbz_189_Nk70-res32.svg} | \hfig{/assets/figs/dim3-sg86-irrfbz_326_Nk70-res32.svg}
 
  - 
     **SGs 48 & 50** (also guaranteed nontrivial at νᵀ = 2): didn't explore - I'm thinking two examples of this is plenty.
@@ -67,20 +63,20 @@ SG 68 #116 | SG 86 #189 | SG 86 #326
     I computed the band dispersion for ~2.600 distinct dielectric lattices in SG 230 (along high-symmetry lines): unfortunately, none of these lattices had $M<12$.
     As context, this required around 1.300 CPU hours ≈ 50+ CPU days.
     
-- 
-    I've manually checked *one* of the four $M=8$ solutions by comparing its compatibility relations to the pinned outgoing lines from Γ. As far as I can see, the solution is completely kosher and consistent.
-    The four solutions are: (▪\T denotes the singular $ω=0$ bands)
+-   I've manually checked *one* of the four $M=8$ solutions by comparing its compatibility relations to the pinned outgoing lines from Γ. As far as I can see, the solution is completely kosher and consistent. 
+  The four solutions are: (▪)\T denotes the singular $ω=0$ bands)
 
-    1. [▪\T+Γ₁⁻+Γ₂⁺+Γ₂⁻+Γ₄⁻, H₁+H₄, 2P₃, 3N₁+N₂]
-    2. [▪\T+Γ₁⁺+Γ₂⁺+Γ₂⁻+Γ₄⁺, H₁+H₄, 2P₃, 3N₁+N₂]
-    3. [▪\T+Γ₁⁺+Γ₁⁻+Γ₂⁻+Γ₅⁻, H₁+H₄, 2P₃, 2N₁+2N₂]
-    4. [▪\T+Γ₁⁺+Γ₁⁻+Γ₂⁺+Γ₅⁺, H₁+H₄, 2P₃, 2N₁+2N₂]
-    
+  1. [(▪)\T+Γ₁⁻+Γ₂⁺+Γ₂⁻+Γ₄⁻, H₁+H₄, 2P₃, 3N₁+N₂]
+  2. [(▪)\T+Γ₁⁺+Γ₂⁺+Γ₂⁻+Γ₄⁺, H₁+H₄, 2P₃, 3N₁+N₂]
+  3. [(▪)\T+Γ₁⁺+Γ₁⁻+Γ₂⁻+Γ₅⁻, H₁+H₄, 2P₃, 2N₁+2N₂]
+  4. [(▪)\T+Γ₁⁺+Γ₁⁻+Γ₂⁺+Γ₅⁺, H₁+H₄, 2P₃, 2N₁+2N₂]
+
+
 - Visualization of solution 1:
 
-    Compatibility relations | Possible band diagram realization
-    :--: | :--:
-    ![](/assets/figs/compatibility_sg230_M=8_solution1-02.png) | ![](/assets/figs/possible-band-diagram_sg230_M=8_solution1.jpg)
+  Compatibility relations | Possible band diagram realization
+  :--: | :--:
+  \hfig{/assets/figs/compatibility_sg230_M=8_solution1-02.png} | \hfig{/assets/figs/possible-band-diagram_sg230_M=8_solution1.jpg}
 
 - 
     If you have the time, it'd be great if you could check one as well: just to verify that we agree on this point.
@@ -93,7 +89,7 @@ SG 68 #116 | SG 86 #189 | SG 86 #326
 - 
     We previously discussed a particular case in SG 68 that had two bands connected to ω=0, then a gap, then 8 connected bands, then a gap, etc. When we discussed this, I was unable to find an expansion for the 8 bands: since these bands should be regular, this was somewhat of a conundrum. 
 
-    The reason was rather banal: I had accidentally misaligned the sorting of irreps in the symmetry vector and the sorting of irreps in the Hilbert basis. After aligning the sorting, the problem was fixed (and the 8 bands were found to be topologically nontrivial; consistent with our expectations, since the 2 bottom bands were nontrivial by our previous analysis).
+-   The reason was rather banal: I had accidentally misaligned the sorting of irreps in the symmetry vector and the sorting of irreps in the Hilbert basis. After aligning the sorting, the problem was fixed (and the 8 bands were found to be topologically nontrivial; consistent with our expectations, since the 2 bottom bands were nontrivial by our previous analysis).
 
 
 ## References

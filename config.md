@@ -28,3 +28,4 @@ For instance:
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\rv}{\mathbf{r}}
 \newcommand{\T}{~~~<sup>2T</sup>~~~}
+\newcommand{\hfig}[1]{[![](#1)](#1)} # include a "clickable" figure
