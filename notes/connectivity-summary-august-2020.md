@@ -8,6 +8,8 @@
 
 Detailed tables [here](/notes/connectivities) including characterization of (non-fragile) topology (minimal and "2ⁿᵈ" minimal connectivity solutions).
 
+For 68 of the 230 space groups, it is possible to do a more refined analysis that also takes account of fragile topology. Of these 68 space groups, 29 can actually host fragile topology: see the corresponding tables [here](/notes/fragile-connectivities).
+
 ## Nodal lines
 I looked through about 400 distinct random lattices in both SG 68 and 86, finding several handfuls of lattices with νᵀ = 2 (along high-symmetry lines).
 I then picked the lattices with largest gap to the third band and calculated the dispersion in the entire BZ: from that, I extracted nodal lines from frequency difference between bands 2 and 3 (as isosurfaces around a small threshold value; hence, each line has a finite "width").
