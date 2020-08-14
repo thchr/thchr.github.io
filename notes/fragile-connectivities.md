@@ -6,10 +6,10 @@ The connectivies νᵀ and symmetry vectors are the same as those given in the g
 
 **Notes:**
 
-1.  (▪)²ᵀ denotes the singular Γ-symmetry content of the 2T plane waves connected to $ω=0$, whether regular or irregular.
-
-2.  Of the 230 space groups, only 68 have "regular" Γ-irreps at ω=0. 
+1.  Of the 230 space groups, only 68 have "regular" Γ-irreps at $ω=0$. 
     Of these 68 space groups, only 29 *may* host symmetry-identified fragile phases: we include only these 29 space groups here.
+
+2.  The notation (...)\T highlights the $ω=0$-connected Γ-irrep content of the 2T plane waves connected to $ω=0$, which is always regular here.
 
 3.  Time-reversal symmetry is assumed.
 

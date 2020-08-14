@@ -7,7 +7,7 @@ For the space groups with nontrivial symmetry indicator groups, the topology of 
 
 **Notes:**
 
-1.  (▪)²ᵀ denotes the singular Γ-symmetry content of the 2T plane waves connected to $ω=0$, whether regular or irregular.
+1.  (▪)\T denotes the singular Γ-symmetry content of the 2T plane waves connected to $ω=0$, whether regular or irregular.
 
 2.  The ~~~2<sup>nd</sup>~~~ minimal solutions were skipped for SGs 2, 10, and 47 due to excessive execution time.
 

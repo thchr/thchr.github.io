@@ -69,12 +69,12 @@ SG 68 #116 | SG 86 #189 | SG 86 #326
     
 - 
     I've manually checked *one* of the four $M=8$ solutions by comparing its compatibility relations to the pinned outgoing lines from Γ. As far as I can see, the solution is completely kosher and consistent.
-    The four solutions are: (▪²ᵀ denotes the singular $ω=0$ bands)
+    The four solutions are: (▪\T denotes the singular $ω=0$ bands)
 
-    1. [▪²ᵀ+Γ₁⁻+Γ₂⁺+Γ₂⁻+Γ₄⁻, H₁+H₄, 2P₃, 3N₁+N₂]
-    2. [▪²ᵀ+Γ₁⁺+Γ₂⁺+Γ₂⁻+Γ₄⁺, H₁+H₄, 2P₃, 3N₁+N₂]
-    3. [▪²ᵀ+Γ₁⁺+Γ₁⁻+Γ₂⁻+Γ₅⁻, H₁+H₄, 2P₃, 2N₁+2N₂]
-    4. [▪²ᵀ+Γ₁⁺+Γ₁⁻+Γ₂⁺+Γ₅⁺, H₁+H₄, 2P₃, 2N₁+2N₂]
+    1. [▪\T+Γ₁⁻+Γ₂⁺+Γ₂⁻+Γ₄⁻, H₁+H₄, 2P₃, 3N₁+N₂]
+    2. [▪\T+Γ₁⁺+Γ₂⁺+Γ₂⁻+Γ₄⁺, H₁+H₄, 2P₃, 3N₁+N₂]
+    3. [▪\T+Γ₁⁺+Γ₁⁻+Γ₂⁻+Γ₅⁻, H₁+H₄, 2P₃, 2N₁+2N₂]
+    4. [▪\T+Γ₁⁺+Γ₁⁻+Γ₂⁺+Γ₅⁺, H₁+H₄, 2P₃, 2N₁+2N₂]
     
 - Visualization of solution 1:
 
