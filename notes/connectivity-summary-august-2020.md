@@ -28,8 +28,8 @@ I then picked the lattices with largest gap to the third band and calculated the
   SG 68 #116 | SG 86 #189 | SG 86 #326
   :--: | :--: | :--: 
   \hfig{/assets/figs/unitcell-sg68-id116-primitive.png} | \hfig{/assets/figs/unitcell-sg86-id189-primitive.png} | \hfig{/assets/figs/unitcell-sg86-id326-primitive.png}
-  \hfig{/assets/figs/nodallines_sg68_id116_Nk50.png} | \hfig{/assets/figs/nodallines_sg86_id189_Nk50.svg} | \hfig{/assets/figs/nodallines_sg86_id326_Nk50.svg} 
   \hfig{/assets/figs/dim3-sg68-irrfbz_116_Nk100_nbands12-res64.svg} | \hfig{/assets/figs/dim3-sg86-irrfbz_189_Nk70-res32.svg} | \hfig{/assets/figs/dim3-sg86-irrfbz_326_Nk70-res32.svg}
+  \hfig{/assets/figs/nodallines_sg68_id116_Nk50.png} | \hfig{/assets/figs/nodallines_sg86_id189_Nk50.svg} | \hfig{/assets/figs/nodallines_sg86_id326_Nk50.svg}
 
  - 
     **SGs 48 & 50** (also guaranteed nontrivial at νᵀ = 2): didn't explore - I'm thinking two examples of this is plenty.
