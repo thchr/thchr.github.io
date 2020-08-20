@@ -6,9 +6,9 @@
 
 ## Tables of band connectivities
 
-Detailed tables [here](/notes/connectivities) including characterization of (non-fragile) topology (minimal and "2ⁿᵈ" minimal connectivity solutions).
+Detailed tables of band connectivities and associated characterization of (non-fragile) band-topology are included here [with](/notes/connectivities) and [without](/notes/connectivities-broken-tr) time-reversal symmetry (includes connectivities for the minimal and "2ⁿᵈ" minimal connectivity solutions).
 
-For 68 of the 230 space groups, it is possible to do a more refined analysis that also takes account of fragile topology. Of these 68 space groups, 29 can actually host fragile topology: see the corresponding tables [here](/notes/fragile-connectivities).
+For 68 of the 230 space groups, it is possible to do a more refined analysis that also takes account of fragile topology. Of these 68 space groups, 29 can actually host fragile topology (in a time-reversal invariant setting): see the corresponding tables [here](/notes/fragile-connectivities).
 
 ## Nodal lines
 I looked through about 400 distinct random lattices in both SG 68 and 86, finding several handfuls of lattices with νᵀ = 2 (along high-symmetry lines).
