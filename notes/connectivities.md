@@ -13,4 +13,4 @@ For the space groups with nontrivial symmetry indicator groups, the topology of 
 
 3.  Time-reversal symmetry is assumed (see the corresponding [time-reversal broken tables](/notes/connectivities-broken-tr)).
 
-\textinput{connectivity_tables_formatted}
+\textinput{connectivity_tables}
