@@ -1,0 +1,32 @@
+
+.franklin-content {
+    @extend .container;
+}
+
+.page-foot {
+    @extend footer;
+}
+
+.cover-mug img {
+    width: 32%;
+    min-width: 125px;
+    max-width: 200px;
+    border-radius: 50%;
+    padding-bottom: 1em;
+    padding-right: 1em;
+    padding-left: 2em;
+  }
+
+.img-research img {
+    width: 50%;
+    min-width: 200px;
+    max-width: 250px;
+    padding-bottom: 0em;
+  }
+
+.img-research-big img {
+    width: 60%;
+    min-width: 250px;
+    max-width: 350px;
+    padding-bottom: 0em;
+  }
