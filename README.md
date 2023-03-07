@@ -1,6 +1,4 @@
-# This website uses the Celeste template
-
-Design is based on [Celeste](https://github.com/nicoelayda/celeste).
+The styling is based on [Celeste](https://github.com/nicoelayda/celeste).
 
 ## Development
 
