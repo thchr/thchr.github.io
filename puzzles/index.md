@@ -26,7 +26,7 @@ where $\bm{\delta}_i = \mathbf{k}_{i+1} – \mathbf{k}_i$ and $|\bm{\delta}_i| \
 
 Can you explain why this a meaningful definition. And why do we need to bother with specifying an ordering? Try to see if you can find any interesting properties of $\bm{U}(\mathcal{C})$ (there are many)!
 
-Okay, finally, the real question. Suppose you discretize $\mathcal{C}$ in a finite but large number of steps (i.e., $N$ finite): can you find an asymptotically correct expression for $\bm{U}(\mathcal{C})$ which only involves matrix products of matrices $\mathbf{M}(\mathbf{k}_i, \mathbf{k}_j) with elements $M_{nm}(\mathbf{k}_i, \mathbf{k}_j) = \langle n(\mathbf{k}_i) | \nabla_{\mathbf{k}} m(\mathbf{k}_j)\rangle$. A good starting point is trying to rewrite $\mathrm{e}^{\mathrm{i}\mathbf{A}(\mathbf{k}_i)⋅\bm{\delta}_i}$ in terms of the matrices $\mathbf{M}(\mathbf{k}_i,\mathbf{k}_j)$.
+Okay, finally, the real question. Suppose you discretize $\mathcal{C}$ in a finite but large number of steps (i.e., $N$ finite): can you find an asymptotically correct expression for $\bm{U}(\mathcal{C})$ which only involves matrix products of matrices $\mathbf{M}(\mathbf{k}_i, \mathbf{k}_j)$ with elements $M_{nm}(\mathbf{k}_i, \mathbf{k}_j) = \langle n(\mathbf{k}_i) | \nabla_{\mathbf{k}} m(\mathbf{k}_j)\rangle$. A good starting point is trying to rewrite $\mathrm{e}^{\mathrm{i}\mathbf{A}(\mathbf{k}_i)⋅\bm{\delta}_i}$ in terms of the matrices $\mathbf{M}(\mathbf{k}_i,\mathbf{k}_j)$.
 
 If you make it to the end: congratulations, you now have a gauge-invariant numerical scheme to calculate Berry phases (the arguments of the eigenvalues of $\bm{U}(\mathcal{C})$)!
 
