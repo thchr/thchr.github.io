@@ -4,11 +4,17 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 ## Preprints
 
+- S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological Phases of Photonic Crystals under Crystalline Symmetries*, [arXiv:2303.10261 (2023)](https://arxiv.org/abs/2303.10261).
+
+- B. Kim, J. Jin, Z. Wang, L. He, T. Christensen, E. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
+
+- C. Qian, Y. Jiang, J. Jin, T. Christensen, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [arXiv:2303.04903 (2023)](https://arxiv.org/abs/2303.04903).
+
 - A.G. Fonseca, ~~~<u>T. Christensen</u>~~~, J.D. Joannopoulos, and M. Soljačić, *Quasicrystalline Weyl points and dense Fermi--Bragg arcs*, [arXiv:2211.14299 (2022)](https://arxiv.org/abs/2211.14299).
 
 ## Published
 
-- S. Kim, ~~~<u>T. Christensen</u>~~~, S.G. Johnson, and M. Soljačić, *Automated Discovery and Optimization of 3D Topological Photonic Crystals*, [ACS Photonics (2023)](https://doi.org/10.1021/acsphotonics.2c01866).
+- S. Kim, ~~~<u>T. Christensen</u>~~~, S.G. Johnson, and M. Soljačić, *Automated Discovery and Optimization of 3D Topological Photonic Crystals*, [ACS Photonics **10**, 861 (2023)](https://doi.org/10.1021/acsphotonics.2c01866).
 
 - A. Ma, Y. Zhang, ~~~<u>T. Christensen</u>~~~, H.C. Po, L. Jing, L. Fu, and M. Soljačić, *Topogivity: a machine-learned chemical rule for discovering topological materials*, [Nano Lett. **23**, 772 (2023)](https://doi.org/10.1021/acs.nanolett.2c03307).
 
