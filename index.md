@@ -7,9 +7,9 @@
 @@right @@cover-mug ![](/assets/portrait.jpg) @@ @@
 @@
 
-I'm Thomas Christensen, a research scientist in Prof.~~~&nbsp~~~Marin Soljačić lab at MIT.
+I'm Thomas Christensen, Villum Young Investigator at the Technical University of Denmark, formerly a research scientist in Prof.~~~&nbsp~~~Marin Soljačić's lab at MIT.
 
-I'm starting a research team in early 2023 at the [Technical University of Denmark](https://electro.dtu.dk/) in the Department of Electrical and Photonics Engineering, DTU Electro.
+I'm starting a research team in early 2023 at the [Technical University of Denmark](https://electro.dtu.dk/) in the Department of Electrical and Photonics Engineering.
 
 I'm looking for excellent and motivated PhD students and postdocs to pursue exciting directions at the intersection between symmetry analysis and photonic topology.
 
