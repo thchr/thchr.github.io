@@ -22,7 +22,7 @@ $$
 \equiv
 \overleftarrow{\prod_i} \mathrm{e}^{\mathrm{i}\mathbf{O}(\mathbf{k}_i)⋅\bm{\delta}_i},
 $$
-where $\bm{\delta}_i = \mathbf{k}_{i+1} – \mathbf{k}_i$ and $|\bm{\delta}_i| \rightarrow 0$ as $N \rightarrow \infty$.
+where $\bm{\delta}_i = \mathbf{k}_{i+1} - \mathbf{k}_i$ and $|\bm{\delta}_i| \rightarrow 0$ as $N \rightarrow \infty$.
 
 Can you explain why this a meaningful definition. And why do we need to bother with specifying an ordering? Try to see if you can find any interesting properties of $\bm{U}(\mathcal{C})$ (there are many)!
 
