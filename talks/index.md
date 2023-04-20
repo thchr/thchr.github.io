@@ -2,9 +2,9 @@
 
 ## Invited conference talks
 - July 2023: Symmetry, connectivity, and topology in photonic crystals (META, Paris, France).
-- July 2023: TBD (PIERS, Prague, Czech Republic).
+- July 2023: Symmetry and topology in photonic crystals (PIERS, Prague, Czech Republic).
 - June 2023: Symmetry and topology in photonic crystals (AES, Torremolinos, Spain).
-- January 2022: Location, symmetry, and topology of the fundamental photonic crystal gap (SPIE Photonics West, San Francisco, USA).
+- January 2022: [Location, symmetry, and topology of the fundamental photonic crystal gap](https://doi.org/10.1117/12.2616302) (SPIE Photonics West, San Francisco, USA).
 - June 2019: Nonclassical surface response in nanoplasmonics (PIERS, Rome, Italy).
 - February 2019: Non-Abelian Berry phases in topological photonics (Synthetic Topological Matter Workshop, Stewart Blusson Quantum Matter Institute, Vancouver, Canada).
 - August 2018: Non-Abelian Berry phases in topological photonics (PIERS, Toyama, Japan).
