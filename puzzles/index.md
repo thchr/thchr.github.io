@@ -6,7 +6,7 @@ If you've solved some of them and want to hear more about the research behind th
 
 ## Wilson loops on discrete paths
 
-There’s an important object in topology called the Wilson operator (or sometimes, the holonomy):
+There's an important object in topology called the Wilson operator (or sometimes, the holonomy):
 $$
 \bm{U}(\mathcal{C}) = \mathop{\mathrm{P}}\mathrm{e}^{\mathrm{i}\oint_{\mathcal{C}} \mathbf{A}(\mathbf{k})\cdot\mathrm{d}\mathbf{k}}.
 $$
