@@ -4,7 +4,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 ## Preprints
 
-- S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological Phases of Photonic Crystals under Crystalline Symmetries*, [arXiv:2303.10261 (2023)](https://arxiv.org/abs/2303.10261).
+- A. Ghorashi, S. Vaidya, M.C. Rechtsman, W.A. Benalcazar,  ~~~<u>T. Christensen</u>~~~, *Prevalence of two-dimensional photonic topology*, [arXiv:2307.15701 (2023)](https://arxiv.org/abs/:2307.15701).
+
+- S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological Phases of Photonic Crystals under Crystalline Symmetries*, [arXiv:2303.10261 (2023)](https://arxiv.org/abs/2303.10261) (accepted, PRB).
+
+- C. Qian, J. Jin, T. Christensen, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [arXiv:2304.09763 (2023)](https://arxiv.org/abs/2304.09763).
 
 - B. Kim, J. Jin, Z. Wang, L. He, T. Christensen, E. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
 
