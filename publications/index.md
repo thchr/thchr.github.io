@@ -10,7 +10,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 - C. Qian, J. Jin, ~~~<u>T. Christensen</u>~~~, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [arXiv:2304.09763 (2023)](https://arxiv.org/abs/2304.09763).
 
-- B. Kim, J. Jin, Z. Wang, L. He, ~~~<u>T. Christensen</u>~~~, E. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
+- B. Kim, J. Jin, Z. Wang, L. He, ~~~<u>T. Christensen</u>~~~, E.J. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
 
 - C. Qian, Y. Jiang, J. Jin, ~~~<u>T. Christensen</u>~~~, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [arXiv:2303.04903 (2023)](https://arxiv.org/abs/2303.04903).
 
