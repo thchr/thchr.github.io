@@ -13,6 +13,7 @@
 
 
 ## Invited seminars
+- April 2023: POLIMA, University of Southern Denmark (Odense, Denmark).
 - March 2021: Max Planck Institute for the Science of Light (virtual).
 - September 2021: CINT, Sandia National Laboratories (virtual).
 - May 2020: OMEL, ETH Zürich (virtual).
