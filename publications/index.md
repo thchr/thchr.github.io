@@ -8,11 +8,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 - S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological Phases of Photonic Crystals under Crystalline Symmetries*, [arXiv:2303.10261 (2023)](https://arxiv.org/abs/2303.10261) (accepted, PRB).
 
-- C. Qian, J. Jin, ~~~T. Christensen~~~, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [arXiv:2304.09763 (2023)](https://arxiv.org/abs/2304.09763).
+- C. Qian, J. Jin, ~~~<u>T. Christensen</u>~~~, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [arXiv:2304.09763 (2023)](https://arxiv.org/abs/2304.09763).
 
-- B. Kim, J. Jin, Z. Wang, L. He, ~~~T. Christensen~~~, E. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
+- B. Kim, J. Jin, Z. Wang, L. He, ~~~<u>T. Christensen</u>~~~, E. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
 
-- C. Qian, Y. Jiang, J. Jin, ~~~T. Christensen~~~, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [arXiv:2303.04903 (2023)](https://arxiv.org/abs/2303.04903).
+- C. Qian, Y. Jiang, J. Jin, ~~~<u>T. Christensen</u>~~~, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [arXiv:2303.04903 (2023)](https://arxiv.org/abs/2303.04903).
 
 - A.G. Fonseca, ~~~<u>T. Christensen</u>~~~, J.D. Joannopoulos, and M. Soljačić, *Quasicrystalline Weyl points and dense Fermi--Bragg arcs*, [arXiv:2211.14299 (2022)](https://arxiv.org/abs/2211.14299).
 
