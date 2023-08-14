@@ -6,8 +6,6 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 - A. Ghorashi, S. Vaidya, M.C. Rechtsman, W.A. Benalcazar,  ~~~<u>T. Christensen</u>~~~, *Prevalence of two-dimensional photonic topology*, [arXiv:2307.15701 (2023)](https://arxiv.org/abs/:2307.15701).
 
-- S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological Phases of Photonic Crystals under Crystalline Symmetries*, [arXiv:2303.10261 (2023)](https://arxiv.org/abs/2303.10261) (accepted, PRB).
-
 - C. Qian, J. Jin, ~~~<u>T. Christensen</u>~~~, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [arXiv:2304.09763 (2023)](https://arxiv.org/abs/2304.09763).
 
 - B. Kim, J. Jin, Z. Wang, L. He, ~~~<u>T. Christensen</u>~~~, E.J. Mele, B. Zhen, *3D nonlinear optical metamaterials from twisted 2D van der Waals interfaces*, [arXiv:2303.06508 (2023)](https://arxiv.org/abs/2303.06508).
@@ -17,6 +15,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 - A.G. Fonseca, ~~~<u>T. Christensen</u>~~~, J.D. Joannopoulos, and M. Soljačić, *Quasicrystalline Weyl points and dense Fermi--Bragg arcs*, [arXiv:2211.14299 (2022)](https://arxiv.org/abs/2211.14299).
 
 ## Published
+
+- S. Vaidya, A. Ghorashi, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, W.A. Benalcazar, *Topological phases of photonic crystals under crystalline symmetries*, [Phys. Rev. B **108**, 085116 (2023)](https://doi.org/10.1103/PhysRevB.108.085116).
 
 - S. Kim, ~~~<u>T. Christensen</u>~~~, S.G. Johnson, and M. Soljačić, *Automated Discovery and Optimization of 3D Topological Photonic Crystals*, [ACS Photonics **10**, 861 (2023)](https://doi.org/10.1021/acsphotonics.2c01866).
 
