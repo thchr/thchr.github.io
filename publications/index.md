@@ -12,19 +12,23 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 - F. Monticone et al., *Nonlocality in photonic materials and metamaterials: roadmap*, [Opt. Mater. Express **15**, 1544 (2025)](https://doi.org/10.1364/ome.559374).
 
-- V. Moro, C. Loh, R. Dangovski, A. Ghorashi, A. Ma, Z. Chen, S. Kim, P.Y. Lu, ~~~<u>T. Christensen</u>~~~, and M. Soljačić, *Multimodal foundation models for material property prediction and discovery*, [Newton **1**, 100016 (2025)](https://doi.org/10.1016/j.newton.2025.100016)
+- Z. Chen, S. Yang, Z. Xie, J. Hu, X. Zhang, Y. Xia, Y. Shen, H. Su, M. Xie, ~~~<u>T. Christensen</u>~~~, Y. Yang, *Broadband measurement of Feibelman's quantum surface response functions*, [Proc. Natl. Acad. Sci. **122**, e2501121122 (2025)](https://doi.org/10.1073/pnas.2501121122).
+
+- W. Zhang, H. Wang, H. Wang, S.T. Ha, L. Chen, X.L. Li, C.-F. Pan, B. Wu, Md.A. Rahman, Y. Ke, Q. Ruan, X. Yang, ~~~<u>T. Christensen</u>~~~, J.K.W. Yang, *Nanoscale 3D printing of glass photonic crystals with near-unity reflectance in the visible spectrum*, [Sci. Adv. **11**, eadv0267 (2025)](https://doi.org/10.1126/sciadv.adv0267). [[phys.org](https://phys.org/news/2025-06-glass-nanostructures-visible-photonics-assumptions.html), [EurekAlert!](https://www.eurekalert.org/news-releases/1088177), [Asia Research News](https://www.asiaresearchnews.com/content/unlocking-new-optical-power-glass-using-precision-printing)]
+
+- V. Moro, C. Loh, R. Dangovski, A. Ghorashi, A. Ma, Z. Chen, S. Kim, P.Y. Lu, ~~~<u>T. Christensen</u>~~~, M. Soljačić, *Multimodal foundation models for material property prediction and discovery*, [Newton **1**, 100016 (2025)](https://doi.org/10.1016/j.newton.2025.100016)
 
 - A. Ghorashi, S. Vaidya, M.C. Rechtsman, W.A. Benalcazar,  ~~~<u>T. Christensen</u>~~~, *Prevalence of two-dimensional photonic topology*, [Phys. Rev. Lett. **133**, 056602 (2024)](https://doi.org/10.1103/physrevlett.133.056602).
 
-- A. Grossi e Fonseca, S. Vaidya, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, T.L. Hughes, and M. Soljačić, *Weyl Points on Nonorientable Manifolds*, [Phys. Rev. Lett. *132*, 266601 (2024)](https://doi.org/10.1103/physrevlett.132.266601).
+- A. Grossi e Fonseca, S. Vaidya, ~~~<u>T. Christensen</u>~~~, M.C. Rechtsman, T.L. Hughes, M. Soljačić, *Weyl Points on Nonorientable Manifolds*, [Phys. Rev. Lett. **132**, 266601 (2024)](https://doi.org/10.1103/physrevlett.132.266601).
 
-- Y. Luo, ~~~<u>T. Christensen</u>~~~, and O. Ilic, *Adaptive multi-spectral mimicking with {2D}-material nanoresonator networks*, [J. Opt. **26**, 075001 (2024)](https://doi.org/10.1088/2040-8986/ad4722).
+- Y. Luo, ~~~<u>T. Christensen</u>~~~, O. Ilic, *Adaptive multi-spectral mimicking with 2D-material nanoresonator networks*, [J. Opt. **26**, 075001 (2024)](https://doi.org/10.1088/2040-8986/ad4722).
 
 - C. Qian, J. Jin, ~~~<u>T. Christensen</u>~~~, L. He, A. Sigillito, E.J. Mele, B. Zhen, *Geometric similarities and topological phases in surface magnon polaritons*, [Phys. Rev. Lett. **132**, 013601 (2023)](https://doi.org/10.1103/PhysRevLett.132.013601).
 
 - B. Kim, J. Jin, Z. Wang, L. He, ~~~<u>T. Christensen</u>~~~, E.J. Mele, B. Zhen, *Three-dimensional nonlinear optical metamaterials from twisted two-dimensional van der Waals interfaces*, [Nat. Photonics **18**, 91 (2023)](https://doi.org/10.1038/s41566-023-01318-6).
 
-- C. Qian, Y. Jiang, J. Jin, ~~~<u>T. Christensen</u>~~~, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [Sci. Rep. *13*, 20445 (2023)](https://doi.org/10.1038/s41598-023-47848-5).
+- C. Qian, Y. Jiang, J. Jin, ~~~<u>T. Christensen</u>~~~, M. Soljačić, A.V. Kildishev, B. Zhen, *Topological electromagnetic waves in dispersive and lossy plasma crystals*, [Sci. Rep. **13**, 20445 (2023)](https://doi.org/10.1038/s41598-023-47848-5).
 
 - A.G. Fonseca, ~~~<u>T. Christensen</u>~~~, J.D. Joannopoulos, and M. Soljačić, *Quasicrystalline Weyl points and dense Fermi--Bragg arcs*, [Phys. Rev. B *108*, L121109 (2023)](https://doi.org/10.1103/physrevb.108.l121109).
 
