@@ -10,7 +10,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=4e0JL34AA
 
 ## Published
 
-- F. Monticone et al., *Nonlocality in photonic materials and metamaterials: roadmap*, [Opt. Mater. Express **15**, 1544 (2025)](https://doi.org/10.1364/ome.559374).
+- F. Monticone, N.A. Mortensen et al., *Nonlocality in photonic materials and metamaterials: roadmap*, [Opt. Mater. Express **15**, 1544 (2025)](https://doi.org/10.1364/ome.559374). [[OMEX Editorial](https://doi.org/10.1364/OME.566203)]
 
 - Z. Chen, S. Yang, Z. Xie, J. Hu, X. Zhang, Y. Xia, Y. Shen, H. Su, M. Xie, ~~~<u>T. Christensen</u>~~~, Y. Yang, *Broadband measurement of Feibelman's quantum surface response functions*, [Proc. Natl. Acad. Sci. **122**, e2501121122 (2025)](https://doi.org/10.1073/pnas.2501121122).
 
