@@ -1,22 +1,22 @@
 # Talks
 
 ## Invited conference talks
-- **PIERS**: *Ideal band degeneracies: what symmetry allows and forbids* (Chiba, Japan, 2025).
-- **NUSOD**: *Topological insights into tight-binding models of 3D photonic crystals* (Łód\'z, Poland, 2025).
-- **Topological Photonics Workshop**: *Symmetry, topology, and connectivity of photonic crystals* (Donostia--San Sebastian, Spain, 2025)
-- **META**: *Is photonic band topology rare or common?* (Toyoma, Japan, 2024).
+- PIERS: *Ideal band degeneracies: what symmetry allows and forbids* (Chiba, Japan, 2025).
+- NUSOD: *Topological insights into tight-binding models of 3D photonic crystals* (Łód\'z, Poland, 2025).
+- Topological Photonics Workshop: *Symmetry, topology, and connectivity of photonic crystals* (Donostia--San Sebastian, Spain, 2025)
+- META: *Is photonic band topology rare or common?* (Toyoma, Japan, 2024).
 - Polariton Science Conference: *Prevalence of photonic topology* (Odense, Denmark, 2024).
-- **AMPD**: *How common is photonic band topology?* (Berlin, Germany; 2024).
-- **SPIE Photonics Europe**: [*Contrastive, multimodal, and interpretable machine learning for photonics and beyond*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0/PC130170/Contrastive-multimodal-and-interpretable-machine-learning-for-photonics-and-beyond/10.1117/12.3024708.short) (Strasbourg, France, 2024).
-- **META**: Symmetry, connectivity, and topology in photonic crystals (Paris, France, 2023).
-- **PIERS**: *Symmetry and topology in photonic crystals* (Prague, Czech Republic, 2023).
-- **AES**: *Symmetry and topology in photonic crystals* (Torremolinos, Spain, 2023).
-- **SPIE Photonics West**: [*Location, symmetry, and topology of the fundamental photonic crystal gap*](https://doi.org/10.1117/12.2616302) (San Francisco, USA, 2022).
-- **PIERS**: *Nonclassical surface response in nanoplasmonics* (Rome, Italy, 2019).
-- **Synthetic Topological Matter Workshop**: *Non-Abelian Berry phases in topological photonics* (Stewart Blusson Quantum Matter Institute, Vancouver, Canada, 2019).
-- **PIERS**: *Non-Abelian Berry phases in topological photonics* (Toyama, Japan, 2018).
-- **META**: *Topological plasmons in graphene* (Incheon-Seoul, Korea, 2017).
-- **PIERS**: *Two-dimensional topological plasmonics* (St. Petersburg, Russia) [**keynote**].
+- AMPD: *How common is photonic band topology?* (Berlin, Germany; 2024).
+- SPIE Photonics Europe: [*Contrastive, multimodal, and interpretable machine learning for photonics and beyond*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0/PC130170/Contrastive-multimodal-and-interpretable-machine-learning-for-photonics-and-beyond/10.1117/12.3024708.short) (Strasbourg, France, 2024).
+- META: Symmetry, connectivity, and topology in photonic crystals (Paris, France, 2023).
+- PIERS: *Symmetry and topology in photonic crystals* (Prague, Czech Republic, 2023).
+- AES: *Symmetry and topology in photonic crystals* (Torremolinos, Spain, 2023).
+- SPIE Photonics West: [*Location, symmetry, and topology of the fundamental photonic crystal gap*](https://doi.org/10.1117/12.2616302) (San Francisco, USA, 2022).
+- PIERS: *Nonclassical surface response in nanoplasmonics* (Rome, Italy, 2019).
+- Synthetic Topological Matter Workshop: *Non-Abelian Berry phases in topological photonics* (Stewart Blusson Quantum Matter Institute, Vancouver, Canada, 2019).
+- PIERS: *Non-Abelian Berry phases in topological photonics* (Toyama, Japan, 2018).
+- META: *Topological plasmons in graphene* (Incheon--Seoul, Korea, 2017).
+- PIERS: *Two-dimensional topological plasmonics* (St. Petersburg, Russia) [keynote].
 
 
 ## Invited seminars
